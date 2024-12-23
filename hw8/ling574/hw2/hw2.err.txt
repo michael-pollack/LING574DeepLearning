@@ -1,0 +1,2 @@
+/mnt/dropbox/23-24/574/env/lib/python3.9/site-packages/plotnine/ggplot.py:727: PlotnineWarning: Saving 6.4 x 4.8 in image.
+/mnt/dropbox/23-24/574/env/lib/python3.9/site-packages/plotnine/ggplot.py:730: PlotnineWarning: Filename: vectors.png

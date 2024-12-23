@@ -1,0 +1,28 @@
+000 (18610.000.000) 04/12 11:25:06 Job submitted from host: <192.168.100.50:9618?addrs=192.168.100.50-9618&noUDP&sock=26768_3333_3>
+...
+007 (18610.000.000) 04/12 11:25:25 Shadow exception!
+	Error from slot1_3@patas-n2.ling.washington.edu: Failed to open '/home2/uwmpp/ling574/hw2/text.in' as standard input: No such file or directory (errno 2)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (18610.000.000) 04/12 11:25:25 Job was held.
+	Error from slot1_3@patas-n2.ling.washington.edu: Failed to open '/home2/uwmpp/ling574/hw2/text.in' as standard input: No such file or directory (errno 2)
+	Code 8 Subcode 2
+...
+009 (18610.000.000) 04/12 11:42:19 Job was aborted by the user.
+	via condor_rm (by user uwmpp)
+...
+000 (18613.000.000) 04/12 11:42:30 Job submitted from host: <192.168.100.50:9618?addrs=192.168.100.50-9618&noUDP&sock=26768_3333_3>
+...
+007 (18613.000.000) 04/12 11:42:37 Shadow exception!
+	Error from slot1_3@patas-n2.ling.washington.edu: Failed to open '/home2/uwmpp/ling574/hw2/text.in' as standard input: No such file or directory (errno 2)
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (18613.000.000) 04/12 11:42:37 Job was held.
+	Error from slot1_3@patas-n2.ling.washington.edu: Failed to open '/home2/uwmpp/ling574/hw2/text.in' as standard input: No such file or directory (errno 2)
+	Code 8 Subcode 2
+...
+009 (18613.000.000) 04/12 11:53:05 Job was aborted by the user.
+	via condor_rm (by user uwmpp)
+...

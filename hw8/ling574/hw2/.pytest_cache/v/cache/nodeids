@@ -1,0 +1,8 @@
+[
+  "test_all.py::TestData::test_negative_samples",
+  "test_all.py::TestData::test_positive_samples",
+  "test_all.py::TestGradients::test_negative_context_gradients",
+  "test_all.py::TestGradients::test_positive_context_gradient",
+  "test_all.py::TestGradients::test_target_word_gradient",
+  "test_all.py::TestModel::test_forward"
+]

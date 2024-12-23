@@ -1,0 +1,195 @@
+Epoch 0 train loss: 2.717440413178576
+Epoch 0 dev loss: 2.308103322982788; perplexity (nats): 10.05533504486084
+New best loss; saving current model
+Epoch 1 train loss: 2.2914486592182057
+Epoch 1 dev loss: 2.145346164703369; perplexity (nats): 8.544999122619629
+New best loss; saving current model
+Epoch 2 train loss: 2.177496482370498
+Epoch 2 dev loss: 2.0478861331939697; perplexity (nats): 7.751498222351074
+New best loss; saving current model
+Epoch 3 train loss: 2.1091219003727373
+Epoch 3 dev loss: 1.9851839542388916; perplexity (nats): 7.280386447906494
+New best loss; saving current model
+["<s>the the from sto senting and 's with the the the t", '<s>the for and more the porting a whan of the conters', '<s>the film , the farlating , be and the and pore is ', '<s>the actor , the the remod sore film a come the the', '<s>the pary , a the plontion and a rest , as the the ', '<s>the mod and the sperer and and , the the pille and', '<s>the senter of the move least of the the the deanti', '<s>the fare it comat the film the be coming of in it ', '<s>and the be film a comect a a mant sure a mover and', '<s>the the band the more and the perpite a comating s']
+Epoch 4 train loss: 2.062758528337943
+Epoch 4 dev loss: 1.9414008855819702; perplexity (nats): 6.968506336212158
+New best loss; saving current model
+Epoch 5 train loss: 2.026257839542203
+Epoch 5 dev loss: 1.9044054746627808; perplexity (nats): 6.715414047241211
+New best loss; saving current model
+Epoch 6 train loss: 1.997759336389406
+Epoch 6 dev loss: 1.8772261142730713; perplexity (nats): 6.535351276397705
+New best loss; saving current model
+Epoch 7 train loss: 1.9738695340210133
+Epoch 7 dev loss: 1.854156494140625; perplexity (nats): 6.3863091468811035
+New best loss; saving current model
+['<s>it the sent and in the the and be make and the the', '<s>sore a film .</s>ary the movie .</s>were the could the c', '<s>the somes the film , a make the mories and sears a', '<s>the sever .</s>and comedy the the perferfing that the', '<s>a the be a sumedy is lith of be a so a dessere .</s>a', '<s>the preating and in a movie and the strome the fil', '<s>the has the the seat and in the sexer and a story ', '<s>the is and the winte is and it sellic to a stist a', '<s>a for the sill , the comere and a decicomet , a fi', '<s>the the lent the so coming and a sing entere the c']
+Epoch 8 train loss: 1.95410879765557
+Epoch 8 dev loss: 1.8332087993621826; perplexity (nats): 6.253921985626221
+New best loss; saving current model
+Epoch 9 train loss: 1.9379467423935508
+Epoch 9 dev loss: 1.8169323205947876; perplexity (nats): 6.1529541015625
+New best loss; saving current model
+Epoch 10 train loss: 1.9236088866151675
+Epoch 10 dev loss: 1.8019744157791138; perplexity (nats): 6.061604022979736
+New best loss; saving current model
+Epoch 11 train loss: 1.9108247877506728
+Epoch 11 dev loss: 1.7903637886047363; perplexity (nats): 5.991631984710693
+New best loss; saving current model
+['<s>a film the a film a spines comenting film and stor', '<s>a him .</s>art to the movie the perfict and a movie a', '<s>the intere that the the fars mand actor to surpric', '<s>that be some and the have in the sunding strile an', "<s>it 's and and have to the senting that what the mo", '<s>the we the comedy beap .</s>enge , the still of the m', '<s>the for the movie , and movie and hore and on the ', '<s>a doings and the film the move in the comedy the p', "<s>it 's enterters , the provie .</s>and .</s>ar and the mo", '<s>a comate , the movie fun the to sust the real and ']
+Epoch 12 train loss: 1.9003947464267859
+Epoch 12 dev loss: 1.7781192064285278; perplexity (nats): 5.9187140464782715
+New best loss; saving current model
+Epoch 13 train loss: 1.889882138605868
+Epoch 13 dev loss: 1.7674516439437866; perplexity (nats): 5.8559112548828125
+New best loss; saving current model
+Epoch 14 train loss: 1.8813090002938602
+Epoch 14 dev loss: 1.7586402893066406; perplexity (nats): 5.804539680480957
+New best loss; saving current model
+Epoch 15 train loss: 1.8723314420114296
+Epoch 15 dev loss: 1.7505035400390625; perplexity (nats): 5.757501125335693
+New best loss; saving current model
+['<s>the pretion of the hard it and real movie the mate', '<s>story with the director to part .</s>and could and th', '<s>conderthing and to desiging , and the cent and the', '<s>the movie the film in the bele and the movie .</s>and', '<s>the movie the remant and the incere the comesting ', "<s>it 's but the the film and be is should the maning", '<s>the film .</s>and is a film , comedy a stare and and ', '<s>a donely for a destion with a desents and the the ', '<s>a the care .</s>and not the completter and work the f', '<s>the charaction and the chare in the comedy is a re']
+Epoch 16 train loss: 1.864872644010108
+Epoch 16 dev loss: 1.7418811321258545; perplexity (nats): 5.708070755004883
+New best loss; saving current model
+Epoch 17 train loss: 1.8582055055246818
+Epoch 17 dev loss: 1.7353568077087402; perplexity (nats): 5.670950889587402
+New best loss; saving current model
+Epoch 18 train loss: 1.8526868980922055
+Epoch 18 dev loss: 1.7281246185302734; perplexity (nats): 5.630085468292236
+New best loss; saving current model
+Epoch 19 train loss: 1.8475168474604575
+Epoch 19 dev loss: 1.7222588062286377; perplexity (nats): 5.597157001495361
+New best loss; saving current model
+['<s>the port to a and the love of the the is in the pe', '<s>the plot and much the movie the movie the word .</s>a', "<s>a compless it 's suth all sonse and menting the mo", '<s>the sees in the movie .</s>and recoming , the feen co', '<s>a presting and with the performance , a story of t', '<s>the starn to the the and remach of the master .</s>an', '<s>like the sented .</s>aker .</s>.. be instare is and the ', '<s>a character of come in the film , and the gire in ', '<s>the movie the conting the the film is a real the f', '<s>a film of a sean the make the film .</s>and character']
+Epoch 20 train loss: 1.8412736480155687
+Epoch 20 dev loss: 1.7171399593353271; perplexity (nats): 5.568579196929932
+New best loss; saving current model
+Epoch 21 train loss: 1.8360647177428342
+Epoch 21 dev loss: 1.7111834287643433; perplexity (nats): 5.535508632659912
+New best loss; saving current model
+Epoch 22 train loss: 1.8320673646105363
+Epoch 22 dev loss: 1.7067649364471436; perplexity (nats): 5.511103630065918
+New best loss; saving current model
+Epoch 23 train loss: 1.8279172034745805
+Epoch 23 dev loss: 1.703046202659607; perplexity (nats): 5.490647792816162
+New best loss; saving current model
+['<s>a movie .</s>an and an and the film the the film .</s>ag', "<s>it 's the restic to a like it 's decase .</s>. in the", '<s>the tare and the time of strack to comedy , and an', '<s>the make some the staral with the complict .</s>an we', '<s>but the masters .</s>and .</s>.</s>a and and movie and dark', "<s>it 's mender , but the sear not not explice is sur", '<s>the manical .</s>and is its bad the slight , and come', '<s>a director .</s>and make .</s>... a provication and and ', "<s>it 's a will this movie mary comedy the concender ", "<s>it 's reart and reciter and prade .</s>act and carabl"]
+Epoch 24 train loss: 1.823109729013193
+Epoch 24 dev loss: 1.6981137990951538; perplexity (nats): 5.463632106781006
+New best loss; saving current model
+Epoch 25 train loss: 1.8203579691911904
+Epoch 25 dev loss: 1.6939059495925903; perplexity (nats): 5.440690517425537
+New best loss; saving current model
+Epoch 26 train loss: 1.816148861517174
+Epoch 26 dev loss: 1.6899914741516113; perplexity (nats): 5.419434547424316
+New best loss; saving current model
+Epoch 27 train loss: 1.8117086668586018
+Epoch 27 dev loss: 1.68766188621521; perplexity (nats): 5.406824111938477
+New best loss; saving current model
+['<s>the a suppition .</s>.</s>and of the the proved and an a', "<s>it 's dening that the to a some , the had a film .", '<s>the comerent is a caming .</s>.. like the prostent of', "<s>it 's a a susting the the film , and in it 's a co", '<s>the starts , but the movie the plot comes and a fi', '<s>a film .</s>.. has a care .</s>... some and one .</s>... be', "<s>a sing to film .</s>.. and it 's a film , and the fal", '<s>the mater that he consister and a film fast to fil', '<s>the still and the more that with a movie a suberic', '<s>a comedy for the film .</s>and .</s>.. show .</s>... be a g']
+Epoch 28 train loss: 1.8095397270574105
+Epoch 28 dev loss: 1.6830847263336182; perplexity (nats): 5.382132530212402
+New best loss; saving current model
+Epoch 29 train loss: 1.8067337640662318
+Epoch 29 dev loss: 1.6794990301132202; perplexity (nats): 5.362868785858154
+New best loss; saving current model
+Epoch 30 train loss: 1.8037795359722237
+Epoch 30 dev loss: 1.6776403188705444; perplexity (nats): 5.352910041809082
+New best loss; saving current model
+Epoch 31 train loss: 1.8004540455028806
+Epoch 31 dev loss: 1.6743577718734741; perplexity (nats): 5.335367679595947
+New best loss; saving current model
+['<s>a character and and do some and destintly of the f', '<s>the family site the prosess , and the mast and an ', '<s>a movie is a bad is with the makes piction present', '<s>a film .</s>... and a disting that with a story and t', '<s>a most and the consentic .</s>.. had the film story a', '<s>a dienness .</s>... seen with a his in the disting .</s>', "<s>a bast amour and like the stricks , it 's some , t", '<s>the sever .</s>.. chare .</s>. is a contertain and the t', "<s>the be a film 's a with a seric and an ender and t", "<s>it 's a the predect and her funny protes .</s>.. and "]
+Epoch 32 train loss: 1.7990170266297874
+Epoch 32 dev loss: 1.6706526279449463; perplexity (nats): 5.315635681152344
+New best loss; saving current model
+Epoch 33 train loss: 1.796137454357933
+Epoch 33 dev loss: 1.668577790260315; perplexity (nats): 5.304617881774902
+New best loss; saving current model
+Epoch 34 train loss: 1.7931153050969155
+Epoch 34 dev loss: 1.6663925647735596; perplexity (nats): 5.293038845062256
+New best loss; saving current model
+Epoch 35 train loss: 1.7903926019811451
+Epoch 35 dev loss: 1.6646287441253662; perplexity (nats): 5.2837114334106445
+New best loss; saving current model
+['<s>the film of the portor probed of the movie .</s>... a', '<s>the performance of the pave the increent have movi', '<s>a the familial to the deliver .</s>... some makes a m', "<s>it 's should story that with the character and the", "<s>a movie 's maning .</s>... a we 's a and see the to t", '<s>the movie and a and and the movie of the lack is a', '<s>the way the parts and distally look .</s>. the movie ', "<s>it 's lame .</s>.</s>. a complain of a the film and exce", '<s>a compers to recall and the for the the picture an', "<s>it 's a compentieles .</s>.</s>. a performance and the c"]
+Epoch 36 train loss: 1.7879804113830966
+Epoch 36 dev loss: 1.6617755889892578; perplexity (nats): 5.268657684326172
+New best loss; saving current model
+Epoch 37 train loss: 1.7852705587608537
+Epoch 37 dev loss: 1.6589354276657104; perplexity (nats): 5.2537150382995605
+New best loss; saving current model
+Epoch 38 train loss: 1.7835448230250497
+Epoch 38 dev loss: 1.657275915145874; perplexity (nats): 5.245003700256348
+New best loss; saving current model
+Epoch 39 train loss: 1.7814164902833518
+Epoch 39 dev loss: 1.6547701358795166; perplexity (nats): 5.231877326965332
+New best loss; saving current model
+['<s>sond of the started and in the movie .</s>. and movie', '<s>the movie that the portory that singers the perfor', "<s>it 's deliver .</s>. see a sual it some and disting a", "<s>the film that 's a deserise to script .</s>.</s>. the fi", "<s>it 's a an and it 's a consistent that it 's event", '<s>concerent visual the rare be distally film and a s', '<s>and and has comedy of for the comperses and intere', "<s>the characters in a the distering movie , it 's be", "<s>the probly .</s>. so movie .</s>. n't the most to sees a", "<s>it 's a story , and a film .</s>. 's no this does be "]
+Epoch 40 train loss: 1.7795756064104231
+Epoch 40 dev loss: 1.6529232263565063; perplexity (nats): 5.222223281860352
+New best loss; saving current model
+Epoch 41 train loss: 1.7774358023418468
+Epoch 41 dev loss: 1.6519678831100464; perplexity (nats): 5.217236518859863
+New best loss; saving current model
+Epoch 42 train loss: 1.7755593579360163
+Epoch 42 dev loss: 1.6483752727508545; perplexity (nats): 5.198526859283447
+New best loss; saving current model
+Epoch 43 train loss: 1.772553892617815
+Epoch 43 dev loss: 1.646999478340149; perplexity (nats): 5.191379547119141
+New best loss; saving current model
+['<s>a consistent .</s>. and every the well the some the l', '<s>the susts that should the the pretical .</s>. plot a ', "<s>it 's a contomating and startic that it 's a dilli", '<s>the some the that the surpront film , but the film', '<s>a stand and a script .</s>.</s>. the sast .</s>.</s>. a spect ', "<s>it 's a be has a gener .</s>.</s>. and a can was a roman", '<s>the story the be pretent performances .</s>. definiti', '<s>the work and a look .</s>.</s>. the work to movie and th', '<s>the self-pleation of the movie .</s>.</s>. the movie .</s>.', '<s>a care .</s>. and a strearing and a does all the movi']
+Epoch 44 train loss: 1.770914728275399
+Epoch 44 dev loss: 1.6451560258865356; perplexity (nats): 5.18181848526001
+New best loss; saving current model
+Epoch 45 train loss: 1.7708558554060003
+Epoch 45 dev loss: 1.6442911624908447; perplexity (nats): 5.177338600158691
+New best loss; saving current model
+Epoch 46 train loss: 1.768196660927619
+Epoch 46 dev loss: 1.6420683860778809; perplexity (nats): 5.165843486785889
+New best loss; saving current model
+Epoch 47 train loss: 1.766856335075607
+Epoch 47 dev loss: 1.6408188343048096; perplexity (nats): 5.159392356872559
+New best loss; saving current model
+['<s>a carse .</s>.</s>. a set of the film of the story .</s>.</s>.', "<s>a movie .</s>... so has story .</s>. sart .</s>. '' bare an", "<s>it 's characters that a be a dark story .</s>. be a m", "<s>the senting , but the movie is a film .</s>... it 's ", '<s>the presising and the film .</s>... the plot has stor', '<s>the movie .</s>. and as the film and a starty , seet ', '<s>the interester in a conting , but an at the film .', "<s>a presently the script 's a comedy and over and th", "<s>an in the scare .</s>.</s>. it 's a an adady .</s>. .</s>. so ", "<s>it 's a the the surprent .</s>.</s>. a story for the com"]
+Epoch 48 train loss: 1.7651676537838767
+Epoch 48 dev loss: 1.637934684753418; perplexity (nats): 5.144533634185791
+New best loss; saving current model
+Epoch 49 train loss: 1.7631399752048964
+Epoch 49 dev loss: 1.6367931365966797; perplexity (nats): 5.138664245605469
+New best loss; saving current model
+Epoch 50 train loss: 1.7621955800145752
+Epoch 50 dev loss: 1.636109471321106; perplexity (nats): 5.135152339935303
+New best loss; saving current model
+Epoch 51 train loss: 1.7604723222246776
+Epoch 51 dev loss: 1.6338763236999512; perplexity (nats): 5.123697280883789
+New best loss; saving current model
+['<s>a the film despective and movie , and a comedy of ', "<s>the point .</s>. seem , it 's a charm and the stant ,", '<s>a complessed of the story and story , but the feat', "<s>the they , it 's make of the movie is the tries as", "<s>the sental in the prosessed to astantic and it 's ", '<s>make an indection .</s>. it feel story of an and and ', '<s>the probed the movie the movie is a proves , the p', '<s>a what and should by an enough and even the movie ', '<s>the but the mand and the still in the movie and re', '<s>a movie .</s>. some and the plot a film is so wardar ']
+Epoch 52 train loss: 1.759059759115012
+Epoch 52 dev loss: 1.6327385902404785; perplexity (nats): 5.117871284484863
+New best loss; saving current model
+Epoch 53 train loss: 1.7574350798174683
+Epoch 53 dev loss: 1.6322304010391235; perplexity (nats): 5.115271091461182
+New best loss; saving current model
+Epoch 54 train loss: 1.7571140634879638
+Epoch 54 dev loss: 1.6309022903442383; perplexity (nats): 5.1084818840026855
+New best loss; saving current model
+Epoch 55 train loss: 1.7553054897972706
+Epoch 55 dev loss: 1.6293305158615112; perplexity (nats): 5.100459098815918
+New best loss; saving current model
+['<s>an and and the still to comedy and attime and ever', "<s>call is a lot the movie to , and a some that it 's", '<s>a not site and the created like the cears .</s>. a st', '<s>the manical .</s>. a does as its invinces the present', "<s>it 's a film about the movie that with the vile wi", '<s>the movie and herrish the terrow to so the bad a b', '<s>the feen .</s>. could and the script .</s>. grat to an a', '<s>a see be characters of the fation .</s>. the start , ', "<s>for the film 's movie and reality .</s>. a still and ", '<s>a screen to stand , the pressiver , and it decome ']
+Epoch 56 train loss: 1.7544433427660653
+Epoch 56 dev loss: 1.6284592151641846; perplexity (nats): 5.096016883850098
+New best loss; saving current model
+Epoch 57 train loss: 1.7535444323936205
+Epoch 57 dev loss: 1.6267750263214111; perplexity (nats): 5.087441444396973
+New best loss; saving current model
+Epoch 58 train loss: 1.7519346413094452
+Epoch 58 dev loss: 1.625869631767273; perplexity (nats): 5.0828375816345215
+New best loss; saving current model
+Epoch 59 train loss: 1.7515301351690113
+Epoch 59 dev loss: 1.6253702640533447; perplexity (nats): 5.0802998542785645
+New best loss; saving current model
+['<s>the film the to from the the stand in a show of a ', '<s>the start the part that .</s>. a seem a compled , and', "<s>the most than the film that it 's a performance , ", '<s>the film of the restor to a mander .</s>. a be film s', '<s>story .</s>. a some and a complather .</s>. so prement o', '<s>a a simply see movie .</s>. or beat all see a matter ', '<s>a makes the film is a with the hour .</s>.</s>. an inter', '<s>an about a strong to a supponce .</s>. is a start , h', '<s>a film .</s>. and an ord a crome and a film , the scr', '<s>the speces and the script .</s>. beat .</s>. a hard worl']

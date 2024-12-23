@@ -1,0 +1,67 @@
+000 (21566.000.000) 05/16 13:55:27 Job submitted from host: <192.168.100.50:9618?addrs=192.168.100.50-9618&noUDP&sock=2171_b432_3>
+...
+001 (21566.000.000) 05/16 13:55:30 Job executing on host: <192.168.100.52:9618?addrs=192.168.100.52-9618&noUDP&sock=10180_3634_4>
+...
+007 (21566.000.000) 05/16 13:55:30 Shadow exception!
+	Error from slot1_3@patas-n2.ling.washington.edu: Failed to execute '/home2/uwmpp/ling574/hw7/run_hw7.sh': (errno=13: 'Permission denied')
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (21566.000.000) 05/16 13:55:30 Job was held.
+	Error from slot1_3@patas-n2.ling.washington.edu: Failed to execute '/home2/uwmpp/ling574/hw7/run_hw7.sh': (errno=13: 'Permission denied')
+	Code 6 Subcode 13
+...
+009 (21566.000.000) 05/16 13:55:45 Job was aborted by the user.
+	via condor_rm (by user uwmpp)
+...
+000 (21567.000.000) 05/16 13:56:09 Job submitted from host: <192.168.100.50:9618?addrs=192.168.100.50-9618&noUDP&sock=2171_b432_3>
+...
+001 (21567.000.000) 05/16 13:56:21 Job executing on host: <192.168.100.52:9618?addrs=192.168.100.52-9618&noUDP&sock=10180_3634_4>
+...
+006 (21567.000.000) 05/16 13:56:29 Image size of job updated: 146988
+	144  -  MemoryUsage of job (MB)
+	146984  -  ResidentSetSize of job (KB)
+...
+006 (21567.000.000) 05/16 14:01:29 Image size of job updated: 798184
+	780  -  MemoryUsage of job (MB)
+	798180  -  ResidentSetSize of job (KB)
+...
+006 (21567.000.000) 05/16 14:11:30 Image size of job updated: 805828
+	787  -  MemoryUsage of job (MB)
+	805824  -  ResidentSetSize of job (KB)
+...
+006 (21567.000.000) 05/16 14:21:31 Image size of job updated: 815148
+	797  -  MemoryUsage of job (MB)
+	815144  -  ResidentSetSize of job (KB)
+...
+006 (21567.000.000) 05/16 14:36:33 Image size of job updated: 817024
+	798  -  MemoryUsage of job (MB)
+	817020  -  ResidentSetSize of job (KB)
+...
+006 (21567.000.000) 05/16 14:41:33 Image size of job updated: 817528
+	799  -  MemoryUsage of job (MB)
+	817524  -  ResidentSetSize of job (KB)
+...
+006 (21567.000.000) 05/16 14:46:33 Image size of job updated: 819492
+	801  -  MemoryUsage of job (MB)
+	819488  -  ResidentSetSize of job (KB)
+...
+006 (21567.000.000) 05/16 15:06:35 Image size of job updated: 819500
+	801  -  MemoryUsage of job (MB)
+	819496  -  ResidentSetSize of job (KB)
+...
+005 (21567.000.000) 05/16 15:11:02 Job terminated.
+	(1) Normal termination (return value 139)
+		Usr 0 01:14:25, Sys 0 00:00:10  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:14:25, Sys 0 00:00:10  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        1        1    453195 
+	   Memory (MB)          :      801        1         1 
+...

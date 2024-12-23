@@ -1,0 +1,7 @@
+Epoch 0 average loss: 0.488037767606645
+Epoch 1 average loss: 0.32633853972554966
+Epoch 2 average loss: 0.28049176026340006
+Epoch 3 average loss: 0.2572602522667666
+Epoch 4 average loss: 0.24377345227392025
+Epoch 5 average loss: 0.2353556996256047
+Total training time: 1466.1704413890839

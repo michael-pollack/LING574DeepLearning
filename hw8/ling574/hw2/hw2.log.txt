@@ -1,0 +1,79 @@
+000 (18614.000.000) 04/12 11:53:18 Job submitted from host: <192.168.100.50:9618?addrs=192.168.100.50-9618&noUDP&sock=26768_3333_3>
+...
+001 (18614.000.000) 04/12 11:53:28 Job executing on host: <192.168.100.52:9618?addrs=192.168.100.52-9618&noUDP&sock=10176_77d3_4>
+...
+007 (18614.000.000) 04/12 11:53:28 Shadow exception!
+	Error from slot1_1@patas-n2.ling.washington.edu: Failed to execute '/home2/uwmpp/ling574/hw2/run_hw2.sh': (errno=13: 'Permission denied')
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (18614.000.000) 04/12 11:53:28 Job was held.
+	Error from slot1_1@patas-n2.ling.washington.edu: Failed to execute '/home2/uwmpp/ling574/hw2/run_hw2.sh': (errno=13: 'Permission denied')
+	Code 6 Subcode 13
+...
+009 (18614.000.000) 04/12 11:57:18 Job was aborted by the user.
+	via condor_rm (by user uwmpp)
+...
+000 (18615.000.000) 04/12 11:57:27 Job submitted from host: <192.168.100.50:9618?addrs=192.168.100.50-9618&noUDP&sock=26768_3333_3>
+...
+001 (18615.000.000) 04/12 11:57:27 Job executing on host: <192.168.100.52:9618?addrs=192.168.100.52-9618&noUDP&sock=10176_77d3_4>
+...
+007 (18615.000.000) 04/12 11:57:27 Shadow exception!
+	Error from slot1_1@patas-n2.ling.washington.edu: Failed to execute '/home2/uwmpp/ling574/hw2/run_hw2.sh': (errno=13: 'Permission denied')
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (18615.000.000) 04/12 11:57:27 Job was held.
+	Error from slot1_1@patas-n2.ling.washington.edu: Failed to execute '/home2/uwmpp/ling574/hw2/run_hw2.sh': (errno=13: 'Permission denied')
+	Code 6 Subcode 13
+...
+000 (18616.000.000) 04/12 12:21:03 Job submitted from host: <192.168.100.50:9618?addrs=192.168.100.50-9618&noUDP&sock=26768_3333_3>
+...
+001 (18616.000.000) 04/12 12:21:17 Job executing on host: <192.168.100.52:9618?addrs=192.168.100.52-9618&noUDP&sock=10176_77d3_4>
+...
+007 (18616.000.000) 04/12 12:21:17 Shadow exception!
+	Error from slot1_1@patas-n2.ling.washington.edu: Failed to execute '/home2/uwmpp/ling574/hw2/run_hw2.sh': (errno=13: 'Permission denied')
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (18616.000.000) 04/12 12:21:17 Job was held.
+	Error from slot1_1@patas-n2.ling.washington.edu: Failed to execute '/home2/uwmpp/ling574/hw2/run_hw2.sh': (errno=13: 'Permission denied')
+	Code 6 Subcode 13
+...
+000 (18618.000.000) 04/12 13:28:57 Job submitted from host: <192.168.100.50:9618?addrs=192.168.100.50-9618&noUDP&sock=26768_3333_3>
+...
+001 (18618.000.000) 04/12 13:29:07 Job executing on host: <192.168.100.52:9618?addrs=192.168.100.52-9618&noUDP&sock=10176_77d3_4>
+...
+006 (18618.000.000) 04/12 13:29:15 Image size of job updated: 13216
+	11  -  MemoryUsage of job (MB)
+	11044  -  ResidentSetSize of job (KB)
+...
+006 (18618.000.000) 04/12 13:34:15 Image size of job updated: 123372
+	121  -  MemoryUsage of job (MB)
+	123372  -  ResidentSetSize of job (KB)
+...
+009 (18615.000.000) 04/12 13:50:06 Job was aborted by the user.
+	via condor_rm (by user uwmpp)
+...
+009 (18616.000.000) 04/12 13:50:13 Job was aborted by the user.
+	via condor_rm (by user uwmpp)
+...
+006 (18618.000.000) 04/12 15:43:27 Image size of job updated: 925104
+	121  -  MemoryUsage of job (MB)
+	123372  -  ResidentSetSize of job (KB)
+...
+005 (18618.000.000) 04/12 15:43:27 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 02:14:02, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 02:14:02, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            :        1        1    453175 
+	   Memory (MB)          :      121        1         1 
+...

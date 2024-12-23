@@ -1,0 +1,5 @@
+vocabulary.py
+main.py
+run_hw1.sh
+train_vocab_base.txt
+train_vocab_freq5.txt

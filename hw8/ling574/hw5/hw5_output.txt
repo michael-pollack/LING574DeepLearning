@@ -1,0 +1,20 @@
+Epoch 0 avg train loss: 2.1016022829141114
+Epoch 1 avg train loss: 1.8976257982240552
+Epoch 2 avg train loss: 1.8351179603999959
+Epoch 3 avg train loss: 1.7981993302820765
+['the film its the far and parter .</s> the cast dive a', 'the work the secout in a far as a for fal to a mos', 'a makes and the as a so the beal as a surping and ', "it 's not the movie with some a preating to prout ", 'a see and the sinder and stre .</s> the director to s', 'a ureal and and seart and a that is the respection', 'a they in the film and of the story of a here and ', "it 's a but confere that of the film , and rean as", "it 's a stare and the work not enter , and the mov", 'a searisully surplines and it the film a great .</s> ']
+Epoch 4 avg train loss: 1.7725036772102218
+Epoch 5 avg train loss: 1.7532005307695153
+Epoch 6 avg train loss: 1.7380362185209892
+Epoch 7 avg train loss: 1.7253645287068167
+["the film hare is n't has and a coment .</s> the port ", "it 's the sarding and the comedy .</s> a partic tome ", 'a film with a sterity , but the sting and the stal', 'the cast and entert of the end poost the most of t', 'a fer and a fan as a beart to the film .</s> the plot', 'screen of the film and movie is mast of the film b', 'a movie , and a comper to a seart a cast and mile ', "it 's a delish , but it 's no has it 's for the mo", "it 's be a direction to make the seems that is rea", 'the film , and and of the film shough has the seen']
+Epoch 8 avg train loss: 1.7147467775252516
+Epoch 9 avg train loss: 1.7054889621350335
+Epoch 10 avg train loss: 1.6975217468374135
+Epoch 11 avg train loss: 1.6905371599021268
+["it 's not the film .</s> a good for the compless and ", "it 's not heart .</s> has as work and sucting a start", "what 's so plivent the action in a well the cast a", 'a pleasing the part of the and pretention .</s> the f', 'a film and the story of the film like a shough the', 'a movie is a from the same a makes a dial .</s> all t', 'the film be seem the story that enter is strical a', "it 's serful the stuget that 's seem is a simmer w", "it 's a bad in the story .</s> see so perfing .</s> a st", 'a for a movie , and a trand , the that is a start ']
+Epoch 12 avg train loss: 1.6841615667444791
+Epoch 13 avg train loss: 1.6784877824881843
+Epoch 14 avg train loss: 1.6732851439289678
+Epoch 15 avg train loss: 1.6684969370680527
+["it 's a sinding and plot 's stranger .</s> read lity ", 'a real and ressed formantic most this movie .</s>rang', 'an and despic is a simpless in the film to the eve', "it 's not the stand , with the good and and a chir", 'a kind of the most and suble .</s>. has to show the s', 'the film is a full see proble and story with in a ', "a real as a start of harricaris .</s> the film 's see", 'the enese of the story of the movie to rest the fi', "the 's a fast and ention to be a serong the movie ", 'the part and surprising stand , the real and star ']

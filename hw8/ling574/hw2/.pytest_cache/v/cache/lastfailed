@@ -1,0 +1,5 @@
+{
+  "test_all.py::TestData": true,
+  "test_all.py::TestGradients": true,
+  "test_all.py::TestModel": true
+}
